@@ -61,7 +61,9 @@ export default class NavbarComp extends Component {
                 <Nav.Link as={Link} to="/about">
                   About Us
                 </Nav.Link>
-
+                <Nav.Link as={Link} to="/about">
+                  ECE444-Lab1
+                </Nav.Link>
                 {/* <Nav.Link href="/search" style={{ color: "white", display: "inline" }}>
                   Search
                 </Nav.Link> */}
