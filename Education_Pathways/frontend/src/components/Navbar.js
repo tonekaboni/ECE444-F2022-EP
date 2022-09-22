@@ -61,7 +61,7 @@ export default class NavbarComp extends Component {
                 <Nav.Link as={Link} to="/about">
                   About Us
                 </Nav.Link>
-                <Nav.Link as={Link} to="/about">
+                <Nav.Link as={Link} to="/sadra">
                   ECE444-Lab1
                 </Nav.Link>
                 {/* <Nav.Link href="/search" style={{ color: "white", display: "inline" }}>
@@ -91,6 +91,16 @@ We are looking for feedback to improve Education Pathways and make it more usefu
 </p>
 <p>Alexander Olson <a href="https://carte.utoronto.ca/"> (CARTE)</a> </p>
 <p>Student team from <a href="https://shuiblue.github.io/UofT-ECE444/">ECE444-Fall2021</a> : Janelle Cuevas, Jean Lin, Terry Luan, Cansin Varol, Nick Woo</p>
+
+
+      </div>
+              {/* <SearchResultDisplay /> */}
+            </Route>
+            <Route path="/sadra">
+            <div className = "body_text">
+            <p>
+                Sadra Tonekaboni
+            </p>
 
 
       </div>
