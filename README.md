@@ -4,4 +4,4 @@ activity 2:
 
 activity 3: 
 
-![image](https://user-images.githubusercontent.com/46113981/194124741-5e5b8ef5-ba01-4171-a595-89abefc52c98.png)
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/46113981/194130948-aa48bb84-8c2d-4e08-bc85-a4167db7b8b5.png">
